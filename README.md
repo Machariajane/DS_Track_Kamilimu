@@ -1,45 +1,41 @@
 ## DS_TRACK_KAMILIMU
 ### KCSE 2016 DATASET REPORT
 
-There are 13 columns with 21 entries 
-COLUMNS:
-#   Column  Non-Null Count  Dtype 
----  ------  --------------  ----- 
- 0   Gender  21 non-null     object (Categorical Variable)
- 1   A       21 non-null     int64 
- 2   A-      21 non-null     int64 
- 3   B+      21 non-null     int64 
- 4   B       21 non-null     int64 
- 5   B-      21 non-null     int64 
- 6   C+      21 non-null     int64 
- 7   C       21 non-null     int64 
- 8   C-      21 non-null     int64 
- 9   D+      21 non-null     int64 
- 10  D       21 non-null     int64 
- 11  D-      21 non-null     int64 
- 12  E       21 non-null     int64 
+There are 13 columns with 21 entries  
+
+COLUMNS:  
+
+![image](https://user-images.githubusercontent.com/53213609/153721128-e8cbdad4-ece3-44b1-8077-69a1204cb86a.png)
+
  
  ![image](https://user-images.githubusercontent.com/53213609/153720751-42c8185b-efa7-4114-bf12-a288e5c9a25a.png)
 
 ## EDA
 
 ### Data Quality issues
-1.The Gender column contains two kinds of information,year and gender
-2.Mispelling in the column Gender
-3.Check the summations contained in the ALL column
+1.The Gender column contains two kinds of information,year and gender  
+
+2.Mispelling in the column Gender  
+
+3.Check the summations contained in the ALL column  
+
 
 
 ### Feature creation
-1.Creation of the year column
-2.Further do groupbys to get the column sum 
+1.Creation of the year column  
+
+2.Further do groupbys to get the column sum  
+
 
 ### Improving data quality 
-1.Change mispellings 
-2.Validated the summations and changed any wrong summation
+1.Change mispellings  
+
+2.Validated the summations and changed any wrong summation  
 
 
 
-###INSIGHTS 
+
+### INSIGHTS 
 Total number of ALL students =  1366198  
 
 Total no. of FEMALE students =  667967  
