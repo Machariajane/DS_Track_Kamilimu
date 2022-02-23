@@ -63,6 +63,8 @@ No. of MALLE students increased also but between 2015 and 2016 the number reduce
 
 
 
+There is a sharp change in the high grades between 2011 and 2015.
 
+This can be attributed to the high exam cheating in these years
  
 
